@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.owner = ['62881036447529']
+global.premium = ['62881036447529']
+global.ownername = 'afah iya'
+global.botname = 'KaiBotz'
+global.packname = '© Kai - MULTI DEVICE'
+global.gc = 'https://bit.ly/3HGYFIK'
+global.linkyt = 'https://youtube.com/channel/UCHFnJDVtHXbb00cKvx_2Gfg'
+global.linkgc = 'https://bit.ly/3HGYFIK'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'sessionya'
